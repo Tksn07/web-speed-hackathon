@@ -71,3 +71,4 @@ API 仕様書は、[./docs/API.md](./docs/API.md) (API Blueprint 形式) を参�
 ---
 
 (c) CyberAgent
+# web-speed-hackathon
